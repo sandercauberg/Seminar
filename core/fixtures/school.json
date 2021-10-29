@@ -1,0 +1,14 @@
+{
+  /*{
+    "model": "core.seminar",
+    "pk": 1,
+    "fields": {
+      "name": "Cursus X",
+      "location": "Van der Valk Eindhoven, 5611AA",
+      "date": [
+        "4000-02-01 00:00:00",
+        "4000-02-01 00:00:00"
+      ]
+    }
+  }*/
+}
